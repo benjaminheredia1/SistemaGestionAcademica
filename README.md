@@ -3,4 +3,5 @@
 
 
 
-__ AUTORES
+*Autores: Benjamin Heredia y Ronner Utepsa* 
+*Utepsa 2025*
